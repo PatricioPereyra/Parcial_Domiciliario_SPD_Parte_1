@@ -1,5 +1,5 @@
 # Parcial_Domiciliario_SPD
-## Integrantes:
+## **Integrantes**:
 ### Patricio Pereyra\nAilín Romano 
 ### 
 
