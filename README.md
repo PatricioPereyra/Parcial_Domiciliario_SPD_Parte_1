@@ -15,3 +15,19 @@
 * Esta función verifica el estado de los pulsadores y actualiza las variables que rastrean su estado anterior. Se utiliza para detectar cuándo se presionan los pulsadores de subir, bajar y restablecer.
 ### Subir(int pulsador, int estadoAntBoton)
 * Esta función se encarga de incrementar el valor de las unidades o decenas cuando se presiona el botón de subir. Si el valor de las unidades llega a 10, se reinicia a cero y se incrementa el valor de las decenas.
+### Bajar(int pulsador, int estadoAntBoton)
+* Esta función disminuye el valor de las unidades o decenas cuando se presiona el botón de bajar. Si el valor de las unidades llega a 0, se establece en 9 y se decrementa el valor de las decenas. Si el contador se encuentra en 00 y se presiona el botón de bajar, no hace nada.
+### Resetear(int pulsador, int estadoAntBoton)
+* Cuando se presiona el botón de restablecer, esta función restablece los valores de unidades y decenas a cero.
+### PrenderDisplay(int display, int numero)
+* Esta función se utiliza para encender y apagar los displays según sea necesario. Controla la lógica de la multiplexación de los displays, asegurándose de que solo uno esté encendido en un momento dado.
+### MostrarNumero(int numero)
+* Esta función se utiliza para mostrar un número en los displays LED de 7 segmentos. Configura los pines correspondientes a los segmentos A, B, C, D, E, F y G para mostrar el número proporcionado como parámetro.
+### ApagarDisplay()
+* Esta función apaga todos los segmentos de los displays, asegurando que no se muestre ningún número en ellos.
+
+### Todas estas funciones trabajan juntas para crear un sistema que permita al usuario incrementar, disminuir y restablecer valores en los displays LED de 7 segmentos utilizando pulsadores.
+---
+## VER EL PROYECTO
+* [Tinkercad](https://www.tinkercad.com/things/k3bgFVsNQDr-spd-parcial-domiciliario-original/editel)
+
