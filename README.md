@@ -1,4 +1,4 @@
-# Parcial_Domiciliario_SPD
+# Parcial_Domiciliario_SPD - Primera Parte
 ## **Integrantes**:
  * Patricio Pereyra
  * Ailín Romano 
@@ -27,9 +27,12 @@
 * Esta función apaga todos los segmentos de los displays, asegurando que no se muestre ningún número en ellos.
 
 ### Todas estas funciones trabajan juntas para crear un sistema que permita al usuario incrementar, disminuir y restablecer valores en los displays LED de 7 segmentos utilizando pulsadores.
----
+
 ## VER EL PROYECTO
 * [Tinkercad](https://www.tinkercad.com/things/k3bgFVsNQDr-spd-parcial-domiciliario-original/editel)
 ## DEMO EN VIDEO
 * [VIDEO](https://www.loom.com/share/2a0bec58491e4c078003808fe90af378?sid=bac2e6a6-ef8d-4bc9-b516-eb9dc1063fea)
+___
+# Parcial_Domiciliario_SPD - Segunda Parte
+## Proyecto: Contador de números primos
 
