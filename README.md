@@ -32,6 +32,7 @@
 * [Tinkercad](https://www.tinkercad.com/things/k3bgFVsNQDr-spd-parcial-domiciliario-original/editel)
 ## DEMO EN VIDEO
 * [VIDEO](https://www.loom.com/share/2a0bec58491e4c078003808fe90af378?sid=bac2e6a6-ef8d-4bc9-b516-eb9dc1063fea)
+---
 ___
 # Parcial_Domiciliario_SPD - Segunda Parte
 ## Proyecto: Contador de números primos
