@@ -38,7 +38,3 @@ ___
 ## Proyecto: Contador de números primos
 #### En esta segunda parte del proyecto, hemos sustituido un pulsador (el que cumplía con la función de resetear) por un interruptor deslizante. A su vez, integramos un motor de aficionado y un sensor de fuerza. Si el switch deslizante está en la posición izquierda, el motor de aficionado girará hacia adelante y el contador estará configurado en números primos. Caso contrario, el motor girará hacia atrás y el contador estará configurado de 1 en 1. El sensor de fuerza resetea los display si alcanza el valor de 10N, y los mantiene en ese estado si el sensor continúa con ese valor.
 ![Primos](Primos.png)
----
-## FUNCIONES
-### ManipularBotones()
-*Chequea el estado de los pulsadores utilizando las funciones Subir(), Bajar(). Toma la función deslizante() con dos parámetros dependiendo su estado. Actualiza los valores de las variables subirAnterior, bajarAnterior.
