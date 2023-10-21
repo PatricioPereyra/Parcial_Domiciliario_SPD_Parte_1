@@ -2,7 +2,7 @@
 En esta tercera parte del proyecto integramos un FOTODIODO,
 que es un dispositivo sensible a la incidencia de la luz.
 La magnitud de sus valores están definidos en un rango decimal
-de cero a uno. Cuando el sensor llega a cero, se resetan los displays.
+de cero a uno. Cuando el sensor llega a uno, se resetean los displays.
 
 */
 
